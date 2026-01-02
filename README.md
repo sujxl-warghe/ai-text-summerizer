@@ -66,6 +66,6 @@ pip install -r requirements.txt
 ```
 ### 4️⃣Run the App
 ```bash
-streamlit run app.py
+python app.py
 ```
 
